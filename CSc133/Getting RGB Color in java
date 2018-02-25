@@ -1,0 +1,7 @@
+public String toString() {
+  String parentDesc = super.toString();
+  String myDesc = "color: " + "[" + ColorUtil.red(myColor) + ","
+                          + ColorUtil.green(myColor) + ","
+                          + ColorUtil.blue(myColor) + "]";
+  return parentDesc + myDesc ;
+}
