@@ -8,3 +8,10 @@ public String toString() {
                           + ColorUtil.blue(myColor) + "]";
   return parentDesc + myDesc ;
 }
+
+/* System.out.println ("myDesc = " + myObject.toString());
+or simply:
+System.out.println ("myDesc = " + myObject);
+the function will print color [r,g,b] 
+where r, g, b, are values between 0 and 255
+i.e [150,0,245]*/
