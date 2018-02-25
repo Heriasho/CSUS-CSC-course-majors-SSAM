@@ -22,9 +22,6 @@ To maintain organization of a multisection mutlisemester study resource, there w
 
 ## Table of Contents
 Below will list supported Californai State State University Sacramento computer science classes.
-1. 133
-1. 137
 1. 138
-   1. Chapter 1
-   1. Chapter 2
-   1. Chapter 3
+   1.[Chapter 1.1-1.3](https://github.com/Jellope/CSUS-CSC-course-majors-SSAM/tree/138)
+
