@@ -20,7 +20,7 @@ To maintain organization of a multisection mutlisemester study resource, there w
   * Study Subject **(Chapter1)**
 * Example of formate: **138_Panzica_#2_Spring_2017_Chapter1**
 
-## Table of Contents
-Below will list supported Californai State State University Sacramento computer science classes.
+## Downloads
+Below will list supported California State State University Sacramento computer science classes.
 1. 138 [Chapter 1.1-1.3](138Panzica%232_Spring_2017_Chapter1.1-1.3.docx) by @Jellope
 2. 133 [Getting RGB Color in Java](CSc133/Getting%20RGB%20Color%20in%20java) by @aser1206
