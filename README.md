@@ -19,6 +19,7 @@ To maintain organization of a multisection mutlisemester study resource, there w
   * Semester **(Season_Year)**
   * Study Subject **(Chapter1)**
 * Example of formate: **138_Panzica_#2_Spring_2017_Chapter1**
+* Expected to be in  .doc, .txt, .pdf, .jpg, .png formate.
 
 ## Downloads
 Below will list supported California State State University Sacramento computer science classes.
