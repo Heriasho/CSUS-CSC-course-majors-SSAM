@@ -1,3 +1,6 @@
+//This code is provided by the professor, but because the assignment is 12 pages long some students
+//find it hard to extract the needed information from her notes
+//The code overrides the toString() method inherited from the Form class.
 public String toString() {
   String parentDesc = super.toString();
   String myDesc = "color: " + "[" + ColorUtil.red(myColor) + ","
