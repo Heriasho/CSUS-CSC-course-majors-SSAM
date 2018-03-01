@@ -25,3 +25,4 @@ To maintain organization of a multisection mutlisemester study resource, there w
 Below will list supported California State State University Sacramento computer science classes.
 1. 138 [Chapter 1.1-1.3](138Panzica%232_Spring_2017_Chapter1.1-1.3.docx) by @Jellope
 2. 133 [Getting RGB Color in Java](CSc133/Getting%20RGB%20Color%20in%20java) by @aser1206
+3. 138 [138 Exam 1 Study Guide](Exam1Notes.docx) by @trulylee
